@@ -10,4 +10,4 @@ require (
 	github.com/spf13/viper v1.7.0
 )
 
-replace k8s.io/client-go => k8s.io/client-go v0.18.14
+replace k8s.io/client-go => k8s.io/client-go v0.29.3
